@@ -1,0 +1,26 @@
+{
+  "name": "email-partners",
+  "version": "1.0.0",
+  "description": "builder",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Богданов Илья <onesuch07@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^7.2.6",
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-inline-css": "^3.3.0",
+    "gulp-less": "^3.5.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.0",
+    "inline-css": "^2.2.2"
+  },
+  "dependencies": {}
+}
